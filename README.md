@@ -11,3 +11,4 @@ This Repository consist of all the Jupyter Notebooks, Images, PDF and .CSV files
 
 ## Task 2: Exploratory Data Analysis
 ### [Jupyter Notebook for Task 2](https://nbviewer.org/github/ADVAIT135/Forage-BCG-Data-Science-Job-Simulation-/blob/5a61bc52946e97b60faa0889a3f901297a1a3473/Task%202%20-%20Exploratory%20Data%20Analysis/Forage%20BCG%20Data%20Science%20Task%202%20-%20Exploratory%20Data%20Analysis.ipynb)
+### [PPT summary for Task 2](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FADVAIT135%2FForage-BCG-Data-Science-Job-Simulation-%2Fmain%2FTask%25202%2520-%2520Exploratory%2520Data%2520Analysis%2FForage%2520BCG%2520Data%2520Science%2520Task%25202%2520-%2520Exploratory%2520Data%2520Analysis.pptx&wdOrigin=BROWSELINK)
