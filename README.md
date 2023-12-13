@@ -8,3 +8,6 @@ This Repository consist of all the Jupyter Notebooks, Images, PDF and .CSV files
 
 ## Task 1: Business Understanding and Hypothesis Framing
 ### [Mail Template (.pdf File) for Task 1](https://github.com/ADVAIT135/Forage-BCG-Data-Science-Job-Simulation-/blob/53c23280a5634a11995cdd07004f3d3af446a9a5/Task%201%20-%20Business%20Understanding%20and%20Hypothesis%20Testing/Forage%20BCG%20Data%20Science%20Task%201%20-%20Business%20Understanding%20and%20Hypothesis%20testing%20Mail.pdf)
+
+## Task 2: Exploratory Data Analysis
+### [Jupyter Notebook for Task 2](https://nbviewer.org/github/ADVAIT135/Forage-BCG-Data-Science-Job-Simulation-/blob/5a61bc52946e97b60faa0889a3f901297a1a3473/Task%202%20-%20Exploratory%20Data%20Analysis/Forage%20BCG%20Data%20Science%20Task%202%20-%20Exploratory%20Data%20Analysis.ipynb)
