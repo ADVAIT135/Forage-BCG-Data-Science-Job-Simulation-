@@ -1,0 +1,13 @@
+The team now has a good understanding of the data and feels confident to use the data to further understand the business problem.
+The team now needs to brainstorm and build out features to uncover signals in the data that could inform the churn model.
+
+Feature engineering is one of the keys to unlocking predictive insight through mathematical modeling.
+Based on the data that is available and was cleaned, identify what you think could be drivers of churn for our client and build those features to later use in your model.
+
+First focus on building on top of the feature that your colleague has already investigated: “the difference between off-peak prices in December and January the preceding year”.
+After this, if you have time, feel free to get creative with making any other features that you feel are worthwhile.
+
+Once you have a set of features, you must train a Random Forest classifier to predict customer churn and evaluate the performance of the model with suitable evaluation metrics.
+Be rigorous with your approach and give full justification for any decisions made by yourself as the intern data scientist. 
+
+Recall that the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it would be possible to predict customers likely to churn using a predictive model.
